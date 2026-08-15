@@ -1,0 +1,8 @@
+08/11/2026-18:05:01 [**] [1:2018959:7] ET TROJAN TestMyIDS Alert [**] [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 45.142.212.61:80 -> 192.168.43.10:4444
+08/11/2026-18:14:43 [**] ET SCAN Possible Nmap Scan [**] {TCP} 1.1.1.1:443 -> 192.168.43.10:80
+08/11/2026-18:14:53 [**] ET SCAN Possible Nmap Scan [**] {TCP} 1.1.1.1:443 -> 192.168.43.10:80
+08/11/2026-18:15:03 [**] ET SCAN Possible Nmap Scan [**] {TCP} 1.1.1.1:443 -> 192.168.43.10:80
+08/11/2026-18:15:13 [**] ET SCAN Possible Nmap Scan [**] {TCP} 1.1.1.1:443 -> 192.168.43.10:80
+08/11/2026-18:15:23 [**] ET SCAN Possible Nmap Scan [**] {TCP} 1.1.1.1:443 -> 192.168.43.10:80
+08/11/2026-18:15:33 [**] ET SCAN Possible Nmap Scan [**] {TCP} 1.1.1.1:443 -> 192.168.43.10:80
+08/11/2026-18:15:43 [**] ET SCAN Possible Nmap Scan [**] {TCP} 1.1.1.1:443 -> 192.168.43.10:80
