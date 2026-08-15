@@ -1,0 +1,78 @@
+=================================
+[*] POCKETSOC DNS RECON: github.com
+=================================
+
+[+] A Records - IP Addresses:
+140.82.121.4
+
+[+] MX Records - Mail Servers:
+0 github-com.mail.protection.outlook.com.
+
+[+] NS Records - Nameservers:
+dns2.p08.nsone.net.
+ns-421.awsdns-52.com.
+ns-520.awsdns-01.net.
+dns3.p08.nsone.net.
+dns4.p08.nsone.net.
+dns1.p08.nsone.net.
+ns-1707.awsdns-21.co.uk.
+ns-1283.awsdns-32.org.
+
+[+] TXT Records - SPF/DKIM/Verification:
+"00Dd0000000hHE0=1TBKg000000TN2r"
+"facebook-domain-verification=39xu4jzl7roi7x0n93ldkxjiaarx50"
+"MS=ms44452932"
+"jamf-site-verification=XtaPNIYghF_e_xRDI8CjgQ"
+"google-site-verification=UTM-3akMgubp6tQtgEuAkYNYLyYAvpTnnSrDMWoDR3o"
+"krisp-domain-verification=ZlyiK7XLhnaoUQb2hpak1PLY7dFkl1WE"
+"adobe-idp-site-verification=b92c9e999aef825edc36e0a3d847d2dbad5b2fc0e05c79ddd7a16139b48ecf4b"
+"TAILSCALE-xOzoDvFUzZr5YYVCQFuD"
+"MS=ms58704441"
+"calendly-site-verification=at0DQARi7IZvJtXQAWhMqpmIzpvoBNF7aam5VKKxP"
+"atlassian-domain-verification=jjgw98AKv2aeoYFxiL/VFaoyPkn3undEssTRuMg6C/3Fp/iqhkV4HVV7WjYlVeF8"
+"anthropic-domain-verification-4az7qn=if8YWuRRqwLycGJDooumzHtxm"
+"serval-domain-verification-ydryhj=qbkiEakpwEpTvHh5fIiCqtaue"
+"stripe-verification=f88ef17321660a01bab1660454192e014defa29ba7b8de9633c69d6b4912217f"
+"MS=6BF03E6AF5CB689E315FB6199603BABF2C88D805"
+"miro-verification=d2e174fdb00c71e0bcf58f8e58c3da2dd80dcfa9"
+"google-site-verification=82Le34Flgtd15ojYhHlGF_6g72muSjamlMVThBOJpks"
+"loom-site-verification=f3787154f1154b7880e720a511ea664d"
+"docusign=087098e3-3d46-47b7-9b4e-8a23028154cd"
+"apple-domain-verification=RyQhdzTl6Z6x8ZP4"
+"shopify-verification-code=t1YPwcmvnxZyBycaCpk1MPyWoFs72o"
+"v=spf1 ip4:192.30.252.0/22 include:spf.protection.outlook.com include:_netblocks.google.com include:_netblocks2.google.com include:mail.zendesk.com include:_spf.salesforce.com include:servers.mcsv.net include:mktomail.com include:sendgrid.net ip4:62.253.2" "27.114 ip4:166.78.69.169 ip4:166.78.69.170 ip4:166.78.71.131 ~all"
+
+[+] WHOIS - Domain Owner Info:
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Creation Date: 2007-10-09T18:20:50Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+Registrars.
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Creation Date: 2007-10-09T18:20:50+0000
+Registrar Registration Expiration Date: 2026-10-09T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact: https://corp.markmonitor.com/domain/ui/abuse-report
+Registrar Abuse Contact Phone: +1.2086851750
+Registrant Organization: GitHub, Inc.
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+If you wish to contact this domain’s Registrant or Technical
+
+[+] Quick Port Scan:
+succeeded
+Port 80 OPEN
+succeeded
+Port 443 OPEN
+succeeded
+Port 22 OPEN
+succeeded
+Port 21 OPEN
+
+[*] Recon Complete
+[*] To save: ./dns-recon.sh github.com | tee github.com-recon.txt

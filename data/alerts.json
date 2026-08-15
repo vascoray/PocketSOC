@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-08-10 19:00:05",
+    "severity": "High",
+    "src_ip": "192.168.1.50",
+    "rule": "ADCS ESC8 - DomainController Cert Requested"
+  },
+  {
+    "timestamp": "2026-08-10 19:01:12",
+    "severity": "High",
+    "src_ip": "192.168.1.50",
+    "rule": "Kerberos PKINIT - Certificate Auth"
+  },
+  {
+    "timestamp": "2026-08-10 19:02:30",
+    "severity": "Critical",
+    "src_ip": "192.168.1.50",
+    "rule": "Certificate Export - exportTPFX.pfx"
+  },
+  {
+    "timestamp": "2026-08-10 19:03:00",
+    "severity": "Critical",
+    "src_ip": "192.168.1.50",
+    "rule": "Logon Success - DOMAIN\\Administrator"
+  }
+]

@@ -1,0 +1,5 @@
+2026-08-10 19:00:01 | EventID: 4886 | Certificate Request | Subject: CN=Administrator
+2026-08-10 19:00:05 | EventID: 4887 | Certificate Issued | Template: DomainController
+2026-08-10 19:01:12 | EventID: 4769 | Kerberos PKINIT | User: attacker@DOMAIN.COM
+2026-08-10 19:02:30 | EventID: 4663 | File Access | Cert: exportPFX.pfx
+2026-08-10 19:03:00 | EventID: 4624 | Logon Success | Account: DOMAIN\Administrator
