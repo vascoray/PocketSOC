@@ -1,40 +1,25 @@
 #!/bin/bash
-while true; do
 clear
-echo "=== POCKET SOC v1.6.1 MENU ==="
-echo "Built in Ghana 🇬🇭"
+echo "========================================"
+echo "  POCKET SOC MOBILE LAB OS v1.8"
+echo "  Auto-Block + Dashboard Edition"
+echo "========================================"
 echo ""
-echo "1) Start Suricata NIDS"
-echo "2) Stop Suricata"
-echo "3) View Live Alerts"
-echo "4) Start Web Dashboard"
-echo "5) Exit"
+echo "1) Start Dashboard"
+echo "2) Start Termux Agent - Auto Block"
+echo "3) View Alerts"
+echo "4) View Blocked IPs"
+echo "5) Stop All"
+echo "6) Exit"
 echo ""
-read -p "Select option: " choice
+read -p "Select: " choice
 
 case $choice in
- 1)
-    echo "Starting Suricata..."
-    suricata -c ~/PocketSOC/suricata/suricata.yaml -i any
-    ;;
- 2)
-    pkill suricata
-    echo "Suricata stopped"
-    sleep 2
-    ;;
- 3)
-    tail -f ~/PocketSOC/suricata/log/fast.log
-    ;;
- 4)
-    echo "Starting Dashboard at http://localhost:8000"
-    cd ~/PocketSOC && python dashboard.py
-    ;;
- 5)
-    exit
-    ;;
- *)
-    echo "Invalid option"
-    sleep 1
-    ;;
+ 1) python dashboard.py ;;
+ 2) python termux_agent.py ;;
+ 3) cat alerts.json 2>/dev/null || echo "No alerts yet" ;;
+  4) iptables -w -L INPUT -n | grep DROP ;;
+ 5) pkill -f dashboard.py; pkill -f termux_agent.py; echo "Stopped" ;;
+ 6) exit ;;
+  *) echo "Invalid" ;;
 esac
-done
