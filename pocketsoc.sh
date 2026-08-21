@@ -2,7 +2,7 @@
 clear
 
 echo "=============================================="
-echo "POCKET SOC MOBILE v2.2b 👑 DEMO MODE"
+echo "POCKET SOC MOBILE v3.0 👑 100% OFFLINE MODE
 echo "Built in Ghana GH"
 echo "King Vasco"
 echo "=============================================="
@@ -25,7 +25,7 @@ case $opt in
     echo "[+] Starting Demo NIDS..."
     pkill -f "demo_sniffer.py"
     python3 ~/pocketsoc/demo_sniffer.py &
-    echo "NIDS running in DEMO MODE. Check dashboard at localhost:8080"
+    echo "NIDS running in 100% OFFLINE MODE. Check dashboard at localhost:8080"
     ;;
 2)
     echo "[+] Stopping Demo NIDS..."

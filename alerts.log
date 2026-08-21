@@ -1,0 +1,261 @@
+2026-08-21 00:27:04 - High - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:27:08 - Medium - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:27:12 - Medium - HTTP Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:27:16 - Critical - Port Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:27:20 - Critical - Port Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:27:24 - High - SSH Brute Force from 198.51.100.23 - BLOCKED
+2026-08-21 00:27:28 - High - SSH Brute Force from 103.216.156.12 - BLOCKED
+2026-08-21 00:27:32 - High - Port Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:27:36 - Medium - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:27:40 - High - SQL Injection Attempt from 45.142.212.61 - BLOCKED
+2026-08-21 00:27:44 - Medium - Port Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:27:48 - High - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:27:52 - High - SSH Brute Force from 192.168.1.50 - BLOCKED
+2026-08-21 00:27:56 - High - HTTP Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:28:00 - High - Port Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:28:04 - Medium - SQL Injection Attempt from 203.0.113.45 - BLOCKED
+2026-08-21 00:28:08 - Critical - Port Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:28:12 - Medium - Port Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:28:16 - Medium - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:28:20 - Critical - SSH Brute Force from 185.220.101.47 - BLOCKED
+2026-08-21 00:28:24 - High - SSH Brute Force from 103.216.156.12 - BLOCKED
+2026-08-21 00:28:28 - High - SSH Brute Force from 198.51.100.23 - BLOCKED
+2026-08-21 00:28:32 - Critical - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:28:36 - Critical - SQL Injection Attempt from 198.51.100.23 - BLOCKED
+2026-08-21 00:28:40 - Critical - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:28:44 - Critical - Port Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:28:48 - High - SSH Brute Force from 103.216.156.12 - BLOCKED
+2026-08-21 00:28:52 - High - SQL Injection Attempt from 45.142.212.61 - BLOCKED
+2026-08-21 00:28:56 - Medium - SSH Brute Force from 94.130.12.34 - BLOCKED
+2026-08-21 00:29:00 - High - HTTP Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:29:04 - Critical - SQL Injection Attempt from 192.168.1.50 - BLOCKED
+2026-08-21 00:29:08 - Medium - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:29:12 - High - SQL Injection Attempt from 103.216.156.12 - BLOCKED
+2026-08-21 00:29:16 - Medium - HTTP Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:29:20 - Medium - SSH Brute Force from 45.142.212.61 - BLOCKED
+2026-08-21 00:29:24 - High - HTTP Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:29:28 - Medium - Port Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:29:32 - Medium - SSH Brute Force from 198.51.100.23 - BLOCKED
+2026-08-21 00:29:36 - Critical - HTTP Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:29:40 - High - SQL Injection Attempt from 94.130.12.34 - BLOCKED
+2026-08-21 00:29:44 - Medium - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:29:48 - Critical - Port Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:29:52 - Critical - Port Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:29:56 - High - SSH Brute Force from 103.216.156.12 - BLOCKED
+2026-08-21 00:30:00 - High - SQL Injection Attempt from 45.142.212.61 - BLOCKED
+2026-08-21 00:30:04 - Critical - HTTP Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:30:08 - High - SSH Brute Force from 45.142.212.61 - BLOCKED
+2026-08-21 00:30:12 - High - SSH Brute Force from 103.216.156.12 - BLOCKED
+2026-08-21 00:30:28 - Medium - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:30:37 - Medium - SSH Brute Force from 45.142.212.61 - BLOCKED
+2026-08-21 00:30:41 - Medium - SSH Brute Force from 192.168.1.50 - BLOCKED
+2026-08-21 00:30:45 - High - Port Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:30:49 - Critical - Port Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:30:53 - Critical - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:30:57 - High - HTTP Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:31:01 - High - HTTP Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:31:05 - Medium - Port Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:31:09 - Medium - HTTP Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:31:13 - High - HTTP Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:31:17 - Critical - HTTP Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:31:21 - High - Port Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:31:25 - Critical - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:31:29 - Critical - SSH Brute Force from 192.168.1.50 - BLOCKED
+2026-08-21 00:31:33 - High - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:31:37 - Medium - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:31:41 - Critical - SSH Brute Force from 203.0.113.45 - BLOCKED
+2026-08-21 00:31:45 - High - SQL Injection Attempt from 198.51.100.23 - BLOCKED
+2026-08-21 00:31:49 - Medium - Port Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:31:53 - High - Port Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:31:57 - Critical - Port Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:32:01 - High - SQL Injection Attempt from 94.130.12.34 - BLOCKED
+2026-08-21 00:32:05 - High - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:32:09 - Critical - HTTP Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:32:13 - High - SSH Brute Force from 94.130.12.34 - BLOCKED
+2026-08-21 00:32:17 - High - Port Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:32:21 - Critical - HTTP Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:32:25 - Medium - SSH Brute Force from 185.220.101.47 - BLOCKED
+2026-08-21 00:32:29 - Critical - HTTP Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:32:33 - Critical - SSH Brute Force from 103.216.156.12 - BLOCKED
+2026-08-21 00:32:37 - Medium - Port Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:32:41 - High - SQL Injection Attempt from 94.130.12.34 - BLOCKED
+2026-08-21 00:32:45 - Medium - SQL Injection Attempt from 94.130.12.34 - BLOCKED
+2026-08-21 00:32:49 - Medium - Port Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:32:53 - Medium - HTTP Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:32:57 - Medium - SSH Brute Force from 45.142.212.61 - BLOCKED
+2026-08-21 00:33:01 - Critical - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:33:05 - Medium - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:33:09 - Critical - SSH Brute Force from 94.130.12.34 - BLOCKED
+2026-08-21 00:33:13 - Medium - SQL Injection Attempt from 192.168.1.50 - BLOCKED
+2026-08-21 00:33:17 - High - Port Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:33:21 - Critical - SQL Injection Attempt from 198.51.100.23 - BLOCKED
+2026-08-21 00:33:25 - High - SSH Brute Force from 94.130.12.34 - BLOCKED
+2026-08-21 00:33:29 - Medium - SSH Brute Force from 203.0.113.45 - BLOCKED
+2026-08-21 00:33:33 - High - HTTP Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:33:37 - High - HTTP Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:33:41 - Critical - SQL Injection Attempt from 192.168.1.50 - BLOCKED
+2026-08-21 00:33:45 - High - Port Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:33:49 - Medium - Port Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:33:53 - Medium - SQL Injection Attempt from 198.51.100.23 - BLOCKED
+2026-08-21 00:33:57 - Medium - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:34:01 - Critical - SQL Injection Attempt from 103.216.156.12 - BLOCKED
+2026-08-21 00:34:05 - Critical - SSH Brute Force from 203.0.113.45 - BLOCKED
+2026-08-21 00:34:09 - Critical - SSH Brute Force from 192.168.1.50 - BLOCKED
+2026-08-21 00:34:13 - Medium - Port Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:34:17 - Medium - Port Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:34:21 - Medium - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:34:25 - Critical - HTTP Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:34:29 - Medium - SSH Brute Force from 192.168.1.50 - BLOCKED
+2026-08-21 00:34:33 - Critical - SSH Brute Force from 45.142.212.61 - BLOCKED
+2026-08-21 00:34:37 - Medium - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:34:41 - High - SSH Brute Force from 45.142.212.61 - BLOCKED
+2026-08-21 00:34:46 - Medium - SSH Brute Force from 185.220.101.47 - BLOCKED
+2026-08-21 00:34:50 - Critical - HTTP Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:34:54 - Critical - HTTP Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:34:58 - Critical - HTTP Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:35:02 - Medium - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:35:06 - Critical - SQL Injection Attempt from 203.0.113.45 - BLOCKED
+2026-08-21 00:35:10 - High - SQL Injection Attempt from 198.51.100.23 - BLOCKED
+2026-08-21 00:35:14 - Medium - HTTP Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:35:18 - Critical - SSH Brute Force from 94.130.12.34 - BLOCKED
+2026-08-21 00:35:22 - High - HTTP Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:35:26 - Critical - SSH Brute Force from 185.220.101.47 - BLOCKED
+2026-08-21 00:35:30 - Critical - SQL Injection Attempt from 203.0.113.45 - BLOCKED
+2026-08-21 00:35:34 - Medium - SSH Brute Force from 45.142.212.61 - BLOCKED
+2026-08-21 00:35:38 - High - SQL Injection Attempt from 192.168.1.50 - BLOCKED
+2026-08-21 00:35:42 - High - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:35:46 - Critical - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:35:50 - Critical - Port Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:35:54 - Critical - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:35:58 - Critical - SQL Injection Attempt from 198.51.100.23 - BLOCKED
+2026-08-21 00:36:02 - Medium - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:36:06 - Critical - SQL Injection Attempt from 45.142.212.61 - BLOCKED
+2026-08-21 00:36:10 - High - HTTP Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:36:14 - Critical - SSH Brute Force from 203.0.113.45 - BLOCKED
+2026-08-21 00:36:18 - Medium - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:36:22 - High - HTTP Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:36:26 - High - Port Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:36:30 - High - HTTP Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:36:34 - Critical - SSH Brute Force from 94.130.12.34 - BLOCKED
+2026-08-21 00:36:38 - Critical - HTTP Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:36:42 - Critical - Port Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:36:46 - Medium - SSH Brute Force from 45.142.212.61 - BLOCKED
+2026-08-21 00:36:50 - High - Port Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:36:54 - High - Port Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:36:58 - High - SSH Brute Force from 203.0.113.45 - BLOCKED
+2026-08-21 00:37:02 - Medium - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:37:06 - Medium - SQL Injection Attempt from 103.216.156.12 - BLOCKED
+2026-08-21 00:37:10 - Critical - Port Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:37:14 - Medium - SQL Injection Attempt from 198.51.100.23 - BLOCKED
+2026-08-21 00:37:18 - Medium - SQL Injection Attempt from 94.130.12.34 - BLOCKED
+2026-08-21 00:37:22 - High - Port Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:37:26 - High - Port Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:37:30 - High - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:37:34 - Critical - SQL Injection Attempt from 203.0.113.45 - BLOCKED
+2026-08-21 00:37:38 - Critical - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:37:42 - Critical - SQL Injection Attempt from 94.130.12.34 - BLOCKED
+2026-08-21 00:37:46 - Critical - SSH Brute Force from 198.51.100.23 - BLOCKED
+2026-08-21 00:37:50 - Critical - HTTP Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:37:54 - Medium - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:37:58 - Medium - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:38:02 - Medium - SQL Injection Attempt from 94.130.12.34 - BLOCKED
+2026-08-21 00:38:06 - Critical - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:38:10 - Medium - SQL Injection Attempt from 45.142.212.61 - BLOCKED
+2026-08-21 00:38:14 - High - SSH Brute Force from 45.142.212.61 - BLOCKED
+2026-08-21 00:38:18 - Medium - HTTP Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:38:22 - High - Port Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:38:26 - Critical - SSH Brute Force from 192.168.1.50 - BLOCKED
+2026-08-21 00:38:30 - High - HTTP Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:38:34 - Medium - Port Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:38:38 - High - SSH Brute Force from 203.0.113.45 - BLOCKED
+2026-08-21 00:38:42 - Critical - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:38:46 - Medium - SQL Injection Attempt from 192.168.1.50 - BLOCKED
+2026-08-21 00:38:50 - Critical - SSH Brute Force from 203.0.113.45 - BLOCKED
+2026-08-21 00:38:54 - High - Port Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:38:58 - High - SSH Brute Force from 198.51.100.23 - BLOCKED
+2026-08-21 00:39:02 - Medium - SSH Brute Force from 103.216.156.12 - BLOCKED
+2026-08-21 00:39:06 - Critical - HTTP Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:39:10 - Critical - SSH Brute Force from 192.168.1.50 - BLOCKED
+2026-08-21 00:39:14 - Critical - HTTP Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:39:18 - High - HTTP Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:39:22 - Critical - Port Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:39:26 - Critical - SQL Injection Attempt from 45.142.212.61 - BLOCKED
+2026-08-21 00:39:30 - Critical - Port Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:39:34 - High - SSH Brute Force from 103.216.156.12 - BLOCKED
+2026-08-21 00:39:38 - Medium - Port Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:39:42 - High - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:39:46 - Medium - Port Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:39:50 - High - SQL Injection Attempt from 198.51.100.23 - BLOCKED
+2026-08-21 00:39:54 - Critical - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:39:58 - Medium - SSH Brute Force from 185.220.101.47 - BLOCKED
+2026-08-21 00:40:02 - Critical - SQL Injection Attempt from 192.168.1.50 - BLOCKED
+2026-08-21 00:40:06 - Critical - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:40:10 - Medium - HTTP Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:40:14 - Medium - SSH Brute Force from 45.142.212.61 - BLOCKED
+2026-08-21 00:40:18 - Medium - HTTP Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:40:22 - High - SQL Injection Attempt from 94.130.12.34 - BLOCKED
+2026-08-21 00:40:26 - High - HTTP Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:40:30 - High - SQL Injection Attempt from 192.168.1.50 - BLOCKED
+2026-08-21 00:40:34 - High - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:40:38 - Critical - SSH Brute Force from 103.216.156.12 - BLOCKED
+2026-08-21 00:40:42 - Critical - SQL Injection Attempt from 45.142.212.61 - BLOCKED
+2026-08-21 00:40:46 - Medium - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:40:50 - Critical - HTTP Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:40:54 - High - HTTP Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:40:58 - Critical - Port Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:41:02 - High - Port Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:41:06 - Medium - SSH Brute Force from 185.220.101.47 - BLOCKED
+2026-08-21 00:41:10 - Critical - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:41:14 - High - SSH Brute Force from 198.51.100.23 - BLOCKED
+2026-08-21 00:41:18 - High - SSH Brute Force from 45.142.212.61 - BLOCKED
+2026-08-21 00:41:22 - Critical - HTTP Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:41:26 - High - HTTP Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:41:30 - Medium - SQL Injection Attempt from 198.51.100.23 - BLOCKED
+2026-08-21 00:41:34 - High - SSH Brute Force from 45.142.212.61 - BLOCKED
+2026-08-21 00:41:38 - Critical - Port Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:41:42 - Critical - SSH Brute Force from 192.168.1.50 - BLOCKED
+2026-08-21 00:41:46 - Critical - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:41:50 - High - HTTP Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:41:54 - High - SQL Injection Attempt from 198.51.100.23 - BLOCKED
+2026-08-21 00:41:58 - Medium - HTTP Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:42:02 - Critical - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:42:06 - Critical - SSH Brute Force from 192.168.1.50 - BLOCKED
+2026-08-21 00:42:10 - Medium - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:42:14 - High - SQL Injection Attempt from 203.0.113.45 - BLOCKED
+2026-08-21 00:42:18 - Medium - HTTP Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:42:22 - Medium - SSH Brute Force from 203.0.113.45 - BLOCKED
+2026-08-21 00:42:26 - Critical - SQL Injection Attempt from 198.51.100.23 - BLOCKED
+2026-08-21 00:42:30 - High - HTTP Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:42:34 - High - SQL Injection Attempt from 185.220.101.47 - BLOCKED
+2026-08-21 00:42:38 - Medium - SQL Injection Attempt from 45.142.212.61 - BLOCKED
+2026-08-21 00:42:42 - Medium - HTTP Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:42:46 - High - SQL Injection Attempt from 192.168.1.50 - BLOCKED
+2026-08-21 00:42:50 - Medium - Port Scan from 203.0.113.45 - BLOCKED
+2026-08-21 00:42:54 - High - SSH Brute Force from 185.220.101.47 - BLOCKED
+2026-08-21 00:42:58 - Critical - SQL Injection Attempt from 94.130.12.34 - BLOCKED
+2026-08-21 00:43:02 - High - SSH Brute Force from 198.51.100.23 - BLOCKED
+2026-08-21 00:43:06 - Medium - SQL Injection Attempt from 94.130.12.34 - BLOCKED
+2026-08-21 00:43:10 - High - HTTP Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:43:14 - High - SQL Injection Attempt from 45.142.212.61 - BLOCKED
+2026-08-21 00:43:18 - High - SQL Injection Attempt from 94.130.12.34 - BLOCKED
+2026-08-21 00:43:22 - High - Port Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:43:26 - Critical - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:43:30 - Critical - SSH Brute Force from 185.220.101.47 - BLOCKED
+2026-08-21 00:43:34 - Critical - Port Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:43:38 - High - Port Scan from 198.51.100.23 - BLOCKED
+2026-08-21 00:43:42 - Medium - SQL Injection Attempt from 192.168.1.50 - BLOCKED
+2026-08-21 00:43:46 - Medium - Port Scan from 192.168.1.50 - BLOCKED
+2026-08-21 00:43:50 - Medium - SSH Brute Force from 94.130.12.34 - BLOCKED
+2026-08-21 00:43:54 - High - SQL Injection Attempt from 94.130.12.34 - BLOCKED
+2026-08-21 00:43:58 - Critical - Port Scan from 103.216.156.12 - BLOCKED
+2026-08-21 00:44:02 - Medium - SSH Brute Force from 94.130.12.34 - BLOCKED
+2026-08-21 00:44:06 - High - SSH Brute Force from 45.142.212.61 - BLOCKED
+2026-08-21 00:44:10 - Critical - Port Scan from 185.220.101.47 - BLOCKED
+2026-08-21 00:44:14 - High - SQL Injection Attempt from 103.216.156.12 - BLOCKED
+2026-08-21 00:44:18 - High - Port Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:44:22 - Critical - SQL Injection Attempt from 94.130.12.34 - BLOCKED
+2026-08-21 00:44:26 - High - SSH Brute Force from 185.220.101.47 - BLOCKED
+2026-08-21 00:44:30 - Critical - SQL Injection Attempt from 94.130.12.34 - BLOCKED
+2026-08-21 00:44:34 - Critical - HTTP Scan from 45.142.212.61 - BLOCKED
+2026-08-21 00:44:38 - High - Port Scan from 94.130.12.34 - BLOCKED
+2026-08-21 00:44:42 - High - Port Scan from 192.168.1.50 - BLOCKED

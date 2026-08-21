@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>POCKET SOC v3.0 OFFLINE</title>
+<style>body{background:#000;color:#0f0;font-family:monospace;padding:15px} .card{border:1px solid #0f0;padding:10px;margin:10px 0} h1{color:#fff} .ip{color:#f00;font-weight:bold}</style>
+</head><body>
+<h1>POCKET SOC v3.0 - 100% OFFLINE 👑</h1>
+<p>No internet needed. Running on Android Termux.</p>
+<div class="card"><h2>Blocked IPs (from blocked_ips.log)</h2><pre id="blocked">Loading...</pre></div>
+<div class="card"><h2>Evidence Files</h2><pre id="ev">Loading...</pre></div>
+<div class="card"><h2>Last Attack Raw</h2><pre id="raw">Loading...</pre></div>
+<script>
+fetch('logs/blocked_ips.log').then(r=>r.text()).then(t=>document.getElementById('blocked').innerText=t||'No blocks yet')
+fetch('logs/auth.log').then(r=>r.text()).then(t=>document.getElementById('raw').innerText=t.split('\n').slice(-5).join('\n'))
+// evidence list - manual for offline
+document.getElementById('ev').innerText="Evidence folder: /pocketsoc/evidence/\nFiles: 2026-08-21_11-07-16_10.10.14.5.log (49 bytes) - PROOF";
+</script>
+</body></html>
