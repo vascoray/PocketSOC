@@ -2,6 +2,11 @@
 SOC Dashboard + GeoIP World Map running on Termux Android
 Built in Ghana GH by King Vasco
 
+![Python](https://img.shields.io/badge/Python-3-blue) 
+![Flask](https://img.shields.io/badge/Flask-WebDashboard-green)
+![Termux](https://img.shields.io/badge/Platform-Termux-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ## Features
 
 POCKET SOC v3.0 100% OFFLINE MODE
