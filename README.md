@@ -1,4 +1,4 @@
-# POCKET SOC MOBILE V2.3.1 👑
+# POCKET SOC MOBILE V3.0 👑
 SOC Dashboard + GeoIP World Map running on Termux Android
 Built in Ghana GH by King Vasco
 
@@ -23,6 +23,11 @@ Built in Ghana GH - Accra - King Vasco
 9. GeoIP World Map
 10. Exit
 
+Pocket SOC Mobile Lab OS is a 5-module cybersecurity toolkit designed for African SMEs priced out of $20k SOC tools. Runs 100% offline on Android.
+5 Modules: Network Scan | Log Analysis | Detection Engine | Dashboard | Automation
+Built around D.I.D.A.R: Detect → Investigate → Document → Automate → Reduce
+
+![Logo](Pocket.png.PNG)
 
 ## Run
 git clone https://github.com/vascoray/pocketsoc.git
