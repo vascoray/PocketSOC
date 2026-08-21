@@ -3,11 +3,27 @@ SOC Dashboard + GeoIP World Map running on Termux Android
 Built in Ghana GH by King Vasco
 
 ## Features
-- Live Demo NIDS
-- GeoIP World Map Bars
-- Recent Alerts Table
-- 77+ Attacks Blocked
+
+POCKET SOC v3.0 100% OFFLINE MODE
+Built in Ghana GH - Accra - King Vasco
+
+1. Start OFFLINE SOC Engine
+2. Stop OFFLINE SOC Engine
+3. View Blocked IPs REAL
+4. View Evidence Files REAL
+5. Port Scanner Offline + Online (8.8.8.8 / 127.0.0.1)
+6. Dashboard Stats localhost:8080
+7. View Blocked IPs
+8. Clear Logs
+9. GeoIP World Map
+10. Exit
+
 
 ## Run
-bash pocketsoc.sh
-python3 dashboard.py
+git clone https://github.com/vascoray/pocketsoc.git
+cd pocketsoc
+pip install fastapi uvicorn -q
+chmod +x *.py
+python3 auto_block.py &
+python3 live_server.py &
+echo "Open: http://localhost:8080 and http://localhost:3003"
