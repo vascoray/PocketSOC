@@ -11,7 +11,7 @@ LOG_FILE = "logs/alerts.log"
 def dashboard():
     html = """
     <html>
-    <head><title>PocketSOC v1.7</title>
+    <head><title>PocketSOC v3.0</title>
     <meta http-equiv="refresh" content="10">
     <style>
     body{background:#000;color:#0f0;font-family:monospace;padding:20px}
@@ -19,7 +19,7 @@ def dashboard():
     .critical{color:red;font-weight:bold}
     </style></head>
     <body>
-    <h1>=== POCKET SOC v1.7 FASTAPI DASHBOARD ===</h1>
+    <h1>=== POCKET SOC v3.0 FASTAPI DASHBOARD ===</h1>
     <p>Zero-Budget SOC | Built in Ghana | Auto-refresh 10s</p>
     <h2>Recent Alerts</h2>
     """
