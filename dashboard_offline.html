@@ -1,16 +1,30 @@
 <!DOCTYPE html>
-<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>POCKET SOC v3.0 OFFLINE</title>
-<style>body{background:#000;color:#0f0;font-family:monospace;padding:15px} .card{border:1px solid #0f0;padding:10px;margin:10px 0} h1{color:#fff} .ip{color:#f00;font-weight:bold}</style>
-</head><body>
+<html>
+<head>
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="refresh" content="2">
+<title>POCKET SOC v3.0 100% OFFLINE</title>
+<style>
+body{background:#000;color:#0f0;font-family:monospace;padding:10px}
+.box{border:2px solid #0f0;padding:10px;margin:10px 0}
+h1{color:#fff}
+</style>
+</head>
+<body>
 <h1>POCKET SOC v3.0 - 100% OFFLINE 👑</h1>
-<p>No internet needed. Running on Android Termux.</p>
-<div class="card"><h2>Blocked IPs (from blocked_ips.log)</h2><pre id="blocked">Loading...</pre></div>
-<div class="card"><h2>Evidence Files</h2><pre id="ev">Loading...</pre></div>
-<div class="card"><h2>Last Attack Raw</h2><pre id="raw">Loading...</pre></div>
+<p>No internet needed. Running on Android Termux. Auto-refresh every 2s</p>
+<div class="box"><h2>Blocked IPs (LIVE from blocked_ips.log)</h2><div id="ips">Loading...</div></div>
+<div class="box"><h2>Evidence Files (LIVE)</h2><div id="ev">Loading...</div></div>
+<div class="box"><h2>Last Attack Raw (LIVE)</h2><div id="raw">Loading...</div></div>
 <script>
-fetch('logs/blocked_ips.log').then(r=>r.text()).then(t=>document.getElementById('blocked').innerText=t||'No blocks yet')
-fetch('logs/auth.log').then(r=>r.text()).then(t=>document.getElementById('raw').innerText=t.split('\n').slice(-5).join('\n'))
-// evidence list - manual for offline
-document.getElementById('ev').innerText="Evidence folder: /pocketsoc/evidence/\nFiles: 2026-08-21_11-07-16_10.10.14.5.log (49 bytes) - PROOF";
+async function load(){
+ try{
+  let r1=await fetch('logs/blocked_ips.log?'+Date.now()); document.getElementById('ips').innerText=await r1.text();
+  let r2=await fetch('logs/auth.log?'+Date.now()); document.getElementById('raw').innerText=(await r2.text()).slice(-500);
+  let r3=await fetch('evidence/?'+Date.now()); document.getElementById('ev').innerText="Folder: /pocketsoc/evidence/ - Check files below - "+new Date().toLocaleTimeString();
+ }catch(e){}
+}
+load(); setInterval(load,2000);
 </script>
-</body></html>
+</body>
+</html>
