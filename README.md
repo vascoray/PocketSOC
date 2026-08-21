@@ -23,6 +23,8 @@ Built in Ghana GH - Accra - King Vasco
 9. GeoIP World Map
 10. Exit
 
+![Logo](Pocketsoc.jpg.jpg)
+
 Pocket SOC Mobile Lab OS is a 5-module cybersecurity toolkit designed for African SMEs priced out of $20k SOC tools. Runs 100% offline on Android.
 5 Modules: Network Scan | Log Analysis | Detection Engine | Dashboard | Automation
 Built around D.I.D.A.R: Detect → Investigate → Document → Automate → Reduce
