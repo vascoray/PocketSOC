@@ -25,8 +25,15 @@ Built in Ghana GH - Accra - King Vasco
 
 ![Logo](Pocketsoc.jpg.jpg)
 
-Pocket SOC Mobile Lab OS is a 5-module cybersecurity toolkit designed for African SMEs priced out of $20k SOC tools. Runs 100% offline on Android.
+Pocket SOC Mobile Lab OS is a 5-module cybersecurity toolkit designed for African SMEs priced out of $20k SOC tools. 
+
+![Dashboard](V3.jpg.JPG)
+
+Runs 100% offline on Android.
 5 Modules: Network Scan | Log Analysis | Detection Engine | Dashboard | Automation
+
+![Menu](V32.jpg.jpg)
+
 Built around D.I.D.A.R: Detect → Investigate → Document → Automate → Reduce
 
 ![Logo](Pocket.png.PNG)
