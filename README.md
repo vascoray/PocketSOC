@@ -1,4 +1,4 @@
-# POCKET SOC MOBILE V3.0 👑
+# POCKET SOC MOBILE V3.2 👑
 SOC Dashboard + GeoIP World Map running on Termux Android
 Built in Ghana GH by King Vasco
 
@@ -9,7 +9,7 @@ Built in Ghana GH by King Vasco
 
 ## Features
 
-POCKET SOC v3.0 100% OFFLINE MODE
+POCKET SOC v3.2 100% OFFLINE MODE
 Built in Ghana GH - Accra - King Vasco
 
 1. Start OFFLINE SOC Engine
