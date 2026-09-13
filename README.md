@@ -34,7 +34,7 @@ Pocket SOC Mobile Lab OS is a 9-module cybersecurity toolkit designed for Africa
 Runs 100% offline on Android.
 5 Modules: Network Scan | Log Analysis | Detection Engine | Dashboard | Automation
 
-![Menu](V32.jpg.jpg)
+![Menu](Menu.jpg.JPG)
 
 Built around D.I.D.A.R: Detect → Investigate → Document → Automate → Reduce
 
