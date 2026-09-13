@@ -27,7 +27,9 @@ Built in Ghana GH - Accra - King Vasco
 
 Pocket SOC Mobile Lab OS is a 9-module cybersecurity toolkit designed for African SMEs priced out of $20k SOC tools. 
 
-![Dashboard](V3.jpg.JPG)
+![Dashboard](Dashboards.jpg.JPG)
+
+![Dashboard](Dashboardss.jpg.JPG)
 
 Runs 100% offline on Android.
 5 Modules: Network Scan | Log Analysis | Detection Engine | Dashboard | Automation
