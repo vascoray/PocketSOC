@@ -48,11 +48,15 @@ Built around D.I.D.A.R: Detect → Investigate → Document → Automate → Red
 ![License](https://img.shields.io/badge/LICENSE-MIT-yellow)
 ![Mode](https://img.shields.io/badge/MODE-100%25_OFFLINE-black)
 
-## Run
+## Run - Standard Outstanding v3.2 LIVE
+
 git clone https://github.com/vascoray/pocketsoc.git
 cd pocketsoc
-pip install fastapi uvicorn -q
+pip install fastapi uvicorn flask -q
 chmod +x *.py
+
+# LIVE dashboard - fixes same data issue
 python3 auto_block.py &
 python3 live_server.py &
+
 echo "Open: http://localhost:8080 and http://localhost:3003"
