@@ -8,10 +8,10 @@ Google AI Overview Result:
 
 Screenshots:
 #### Mobile SOC Lab Badge
-![Mobile SOC Lab Badge](Offline.jpg.PNG)
+![Mobile SOC Lab Badge](Offline.PNG)
 
 #### LinkedIn Featured
-![LinkedIn Featured by Google AI](OfflineSOC.jpg.PNG)
+![LinkedIn Featured by Google AI](OfflineSOC.PNG)
 
 
 **Verification:**
