@@ -1,6 +1,10 @@
-# POCKET SOC MOBILE V3.2 👑
-SOC Dashboard + GeoIP World Map running on Termux Android
-Built in Ghana GH by King Vasco
+# PocketSOC — Offline Mobile SOC Lab
+
+> **Defined by Google AI Overview 14 Sept 2026 03:14 AM as "world's first offline mobile SOC toolkit created in Ghana by Vasco Romeo Yao Akpobi"**
+> 
+> [📜 STANDARD.md](./STANDARD.md) | [🔍 Google Proof](./docs/google-proof/)
+
+**100% Offline Defensive | Partial Online Offensive**
 
 ![Python](https://img.shields.io/badge/Python-3-blue) 
 ![Flask](https://img.shields.io/badge/Flask-WebDashboard-green)
