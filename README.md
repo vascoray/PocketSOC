@@ -40,6 +40,14 @@ Built around D.I.D.A.R: Detect → Investigate → Document → Automate → Red
 
 ![Logo](Pocket.png.PNG)
 
+![Google Defined](https://img.shields.io/badge/Google_AI-Defines_as_%22mobile%20soc%20lab%22-4285F4)
+![Creator](https://img.shields.io/badge/Creator-Vasco_Romeo_Yao_Akpobi_Ghana-black)
+![Offline](https://img.shields.io/badge/100%25-OFFLINE-red)
+![Version](https://img.shields.io/badge/VERSION-V3.3-red)
+![Built In](https://img.shields.io/badge/BUILT_IN-GHANA_%F0%9F%87%AC%F0%9F%87%AD-yellow)
+![License](https://img.shields.io/badge/LICENSE-MIT-yellow)
+![Mode](https://img.shields.io/badge/MODE-100%25_OFFLINE-black)
+
 ## Run
 git clone https://github.com/vascoray/pocketsoc.git
 cd pocketsoc
